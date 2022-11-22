@@ -43,7 +43,7 @@ This is the best estimate of the required parts for each version, anything marke
 Alternative values are noted in the column for the other versions. Any part marked `Jumper` should be shorted together with jumper wires or 0 ohm resistors.
 Components marked `omit` should not be placed. Other values and notes, or blank spaces are left to the builders discretion, especially if attempting to copy the origional Echoplex circuit as closely as possible, as this accounts for only the first half of the circuit, the 2nd active stage must be made up from the other versions.
 
- ref           | value5        | Echoplex  | Madbean/EP      | F.Briggs  | Aion       |
+| ref           | value         | Echoplex  | Madbean/EP      | F.Briggs  | Aion       |
 | ------------- | ------------- | --------- | --------------- | --------- | ---------- |
 | Bias1         | 50k           | omit      | YES             | omit      | omit       |
 | Boost1        | C10k          | choice    | YES             | YES       | 1M fixed   |
